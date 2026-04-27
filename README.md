@@ -198,8 +198,6 @@ Metrics shown in banner imagery are representative simulator outputs and not off
 
 👨‍🚀 Final Verdict
 
-🌌 “A visually striking, technically credible bridge between orbital mechanics education and aerospace simulation.”
-
 🚀 Simulate boldly.
 
 🌙 Fly by the Moon.
