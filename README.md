@@ -196,8 +196,6 @@ Metrics shown in banner imagery are representative simulator outputs and not off
 
 ⸻
 
-👨‍🚀 Final Verdict
-
 🚀 Simulate boldly.
 
 🌙 Fly by the Moon.
